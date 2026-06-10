@@ -1,0 +1,6 @@
+# Windows / Google Drive system files
+desktop.ini
+Thumbs.db
+
+# OS
+.DS_Store
