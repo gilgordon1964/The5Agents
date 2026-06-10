@@ -4,3 +4,8 @@ Thumbs.db
 
 # OS
 .DS_Store
+
+# Secrets / environment — never commit real keys
+.env
+.env.local
+.env.*.local
